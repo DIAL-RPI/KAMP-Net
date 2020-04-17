@@ -5,9 +5,14 @@ The code in this repository implements KAMP-Net(https://ieeexplore.ieee.org/docu
 If you find this work helpful to you, please cite our paper in your own work:
 ```
 @article{guo2019knowledge,
-  title={Knowledge-based Analysis for Mortality Prediction from CT Images},
-  author={Guo, Hengtao and Kruger, Uwe and Wang, Ge and Kalra, Mannudeep K and Yan, Pingkun},
-  journal={arXiv preprint arXiv:1902.07687},
-  year={2019}
+  title = {Knowledge-based Analysis for Mortality Prediction from {CT} Images},
+	volume = {24},
+	doi = {10.1109/JBHI.2019.2946066},
+	number = {2},
+	journal = {IEEE Journal of Biomedical and Health Informatics},
+	author = {Guo, Hengtao and Kruger, Uwe and Wang, Ge and Kalra, Mannudeep K. and Yan, Pingkun},
+	month = feb,
+	year = {2020},
+	pages = {457--464}}
 }
 ```
